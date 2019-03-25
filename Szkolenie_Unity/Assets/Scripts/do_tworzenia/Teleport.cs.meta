@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2806a6357abfe36479820a39b210ecd5
+timeCreated: 1518919316
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - teleportParticle: {fileID: 1979349568554034, guid: 5c88ab658f4b42941848013e51b9a9f9,
+      type: 2}
+  - outputTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

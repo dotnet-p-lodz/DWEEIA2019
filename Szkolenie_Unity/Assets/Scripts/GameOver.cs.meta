@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 415bbfaa87560fb43a2a9eb72e42c30a
+timeCreated: 1518293993
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loseScreen: {fileID: 1846204885543540, guid: 454edf7d3a342d84c9dc425078f3bb07,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc8cdf6d8a501644bb8e37737d295452
+timeCreated: 1518191933
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - winningScreen: {fileID: 1161614291386488, guid: 454edf7d3a342d84c9dc425078f3bb07,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
