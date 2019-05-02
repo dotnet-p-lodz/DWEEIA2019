@@ -4,7 +4,7 @@ Materiały z prelekcji dot. Microsoft Azure.
 ## Przykładowe aplikacje
 
 ### **Static website**
-Pliki strony należy jedynie wrzucić do Storage Account utworoznego na Azurze. Najlepiej wykorzystać w tym celu [Microsoft Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
+Pliki strony należy jedynie wrzucić do Storage Account utworzonego na Azurze. Najlepiej wykorzystać w tym celu [Microsoft Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 
 ### **Redirect**
 Aplikacja wymaga zmian dat, aby zobaczyć jej działanie. Odpowiednie (przyszłe) daty należy podawać w funkcji `Redirect.Helpers.GetData()`, linijki 31, 35 oraz 39.
